@@ -36,6 +36,13 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
 
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Gabriel Barbosa](https://img.shields.io/badge/-gabrieltsbarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieltsbarbosa/)](https://www.linkedin.com/in/gabrieltsbarbosa/)
+[![Gmail Badge](https://img.shields.io/badge/-gtav.sbarbosa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtav.sbarbosa@gmail.com)](mailto:gtav.sbarbosa@gmail.com)
+[![GitHub Gabriel Barbosa]( https://img.shields.io/github/followers/gabrieltsbarbosa?label=follow&style=social)](https://github.com/gabrieltsbarbosa/)
+
 <br/>
 <!--
 <a href="https://github.com/gabrieltsbarbosa">
@@ -43,11 +50,5 @@
 </a>
 
 <br/> -->
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Gabriel Barbosa](https://img.shields.io/badge/-gabrieltsbarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieltsbarbosa/)](https://www.linkedin.com/in/gabrieltsbarbosa/)
-[![Gmail Badge](https://img.shields.io/badge/-gtav.sbarbosa@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gtav.sbarbosa@gmail.com)](mailto:gtav.sbarbosa@gmail.com)
-[![GitHub Gabriel Barbosa]( https://img.shields.io/github/followers/gabrieltsbarbosa?label=follow&style=social)](https://github.com/gabrieltsbarbosa/)
 
 
