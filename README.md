@@ -12,7 +12,7 @@
 **Aplicações e Dados**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=00599C)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=00599C)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
